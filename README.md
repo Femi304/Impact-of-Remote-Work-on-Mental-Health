@@ -10,19 +10,24 @@ The average social isolation rating is 2.99 on a scale (likely from 1 to 5).
 The average hours worked per week across all workers is 39.61 hours.
 
 The average company support rating for remote work is 3.01.
+
 In terms of virtual meetings by industry:
 Finance holds the highest with 5.7k meetings.
 Education has the lowest at 5k meetings.
+
 For total weekly hours worked by industry:
 IT leads with 30k hours per week.
 Consulting is the lowest at 27k hours per week.
+
 By gender, total weekly hours worked are:
 Male workers: 51k hours.
 Female workers: 50k hours.
 Nonbinary workers: 48k hours.
+
 By job role, total weekly hours worked are:
 Project Managers work the most at 29k hours.
 Data Scientists work the least at 27k hours.
+
 By sleep quality, total weekly hours worked are:
 Workers with good sleep quality record the highest at 67k hours.
 Workers with average sleep quality report the lowest at 64k hours.
