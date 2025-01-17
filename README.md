@@ -2,9 +2,13 @@
 This dashboard analyzes key factors affecting mental health during remote work, including: Average age of workers, Social isolation ratings, Total hours worked per week, Sleep quality . It provides actionable insights into the challenges and well-being of remote workers.
 
 The average age of workers is 41 years.
+
 Workers aged 43 years report the highest weekly work hours, averaging 41.45 hours per week.
+
 The average social isolation rating is 2.99 on a scale (likely from 1 to 5).
+
 The average hours worked per week across all workers is 39.61 hours.
+
 The average company support rating for remote work is 3.01.
 In terms of virtual meetings by industry:
 Finance holds the highest with 5.7k meetings.
